@@ -1,0 +1,4 @@
+# Project exclude paths
+/AppData/Local/Microsoft/TypeScript/4.2/node_modules/
+/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode.node-debug2/node_modules/
+/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/typescript-language-features/node_modules/
